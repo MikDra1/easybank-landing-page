@@ -72,6 +72,12 @@
 @media (min-width: 1500px) {
   .heroContent {
     margin-right: auto;
-    margin-left: 5rem;
+    margin-left: 10rem;
+  }
+
+  .hero h1 {
+    max-width: 14ch;
+margin-right: auto;
+margin-left: 0;
   }
 }
